@@ -1,8 +1,4 @@
-# Stellar Federation Docker
-
-## Motivation
-
-We have created this repository to be able to quickly deploy dummy stellar federations for demo and testing purposes. We decided to open source it to contribute to the Stellar community.
+copy from bloqhouse stellar-federation-docker
 
 ## Feature
 
